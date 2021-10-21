@@ -12,6 +12,7 @@ import TableForm from './Pages/TableForm'
 import {Provider} from 'react-redux'
 import store from './Component/Redux/Store';
 import EditUser from './Pages/EditUser';
+
 function App() {
   return (
     <Provider store={store}>
