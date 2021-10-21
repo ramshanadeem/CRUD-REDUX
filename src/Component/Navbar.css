@@ -1,0 +1,52 @@
+.logo {
+    width: 20vw;
+    height: 5.5vw;
+}
+.nav-par {
+    margin-top: 2vw;
+   
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 30vw;
+}
+.link {
+    color: #4C302C;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+.account-btn {
+    width: 8vw;
+    height: 2.5vw;
+    background-color: #FF3008;
+    color: white;
+    border: none;
+    border-radius: 0.3vw;
+    font-size: 1vw;
+}
+.btn-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 88vw;
+}
+.nav-par {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.underline {
+    color: #FF3008;
+    border-bottom: 2.5px solid #FF3008;
+}
+.btn-icon {
+    width: 1vw;
+    height: 1vw;
+}
